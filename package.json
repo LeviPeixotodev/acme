@@ -1,8 +1,10 @@
 {
   "private": true,
   "type": "module",
-
- "_comentario":"//module no lugar de usar common.js, tem q usar import e export para os modulos do projeto"
-
- 
+  "_comentario": "//module no lugar de usar common.js, tem q usar import e export para os modulos do projeto",
+  "dependencies": {
+    "next": "^15.5.14",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  }
 }
