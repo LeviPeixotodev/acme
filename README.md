@@ -5,4 +5,7 @@
 - .nvmrc: define qual versao é requirida, utilizando nvm alias default (versao. EX:20)
 
 - next.config.js: 
+.eslintrc com
+  "extends":["next/core-web-vitals"]
+  para melhoria de codigo e SEO do google
 
