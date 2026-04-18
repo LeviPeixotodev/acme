@@ -2,7 +2,8 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "dev": "next dev"
+    "dev": "next dev",
+    "lint": "next lint"
   },
   "_comentario": "//module no lugar de usar common.js, tem q usar import e export para os modulos do projeto, dependencias significa que seu projeto vai precisar delas sempre. Ja as devdependencies que voce so vai precisar quando estar codando... o eslint corrige codigo ",
   "dependencies": {
